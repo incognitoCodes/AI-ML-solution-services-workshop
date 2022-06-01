@@ -7,15 +7,9 @@ Welcome to the AWS AI Services Workshop!
 ### Prerequisites
 - Basic knowledge of AWS AI services
 - Attended the AI Services for EdTech webinar
-- A computer with video camera and microphone
+- A computer microphone
 - Chrome or FireFox browser
 
-### Meeting IDs
-The main room - https://chime.aws/123 will be used for presentation.
-
-If you have any issues with the labs, or if you have questions, please navigate to the breakout room - https://chime.aws/123
-
-Further break out rooms may be created if more people need help.
 
 ### Agenda
 ![Agenda](./images/agenda.png)
@@ -32,7 +26,7 @@ Complete the steps within [0-init](./0-init/README.md) module.
 
 
 ## Solutions
-In this workshop, we will go through 4 to 6 solutions.
+In this workshop, we will go through 5 solutions/ services.
 
 Lets get started!
 
@@ -53,6 +47,7 @@ Get started with [1-virtual-proctor](./1-virtual-proctor/README.md) module. </br
 AWS QnABot is a multi-channel, multi-language conversational interface (chatbot) that responds to your customer’s questions, answers, and feedback. The solution allows you to deploy a fully functional chatbot across multiple channels including chat, voice, SMS and Amazon Alexa. 
 
 Get started with [2-qna-bot](./3-qna-bot/README.md) module. </br>
+
 
 ### Document Understanding Solution
 The Document Understanding Solution (DUS) delivers an easy-to-use web application that ingests and analyzes files, extracts text from documents, identifies structural data (tables, key value pairs), extracts critical information (entities), and creates smart search indexes from the data. Additionally, files can be uploaded directly to and analyzed files can be accessed from an Amazon Simple Storage Service (Amazon S3) bucket in your AWS account.

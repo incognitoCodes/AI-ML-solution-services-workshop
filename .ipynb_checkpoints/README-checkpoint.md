@@ -5,9 +5,8 @@ Welcome to the AWS AI Services Workshop!
 
 
 ### Prerequisites
-- Basic knowledge of AWS AI services
+- Basic knowledge of AWS services
 - Attended the AI Services for EdTech webinar
-- A computer microphone
 - Chrome or FireFox browser
 
 
@@ -19,16 +18,8 @@ Welcome to the AWS AI Services Workshop!
 ![service Coverage](./0-init/images/service_coverage.png)
 
 
-### Account Access
-In the first step, we will access your temporary AWS account where you will run your labs.
-
-Complete the steps within [0-init](./0-init/README.md) module.
-
-
 ## Solutions
-In this workshop, we will go through 5 solutions/ services.
-
-Lets get started!
+In this workshop, we will go through the below AI/ML solutions/ services.
 
 
 ### Virtual Proctor
@@ -81,4 +72,10 @@ The Document Understanding Solution (DUS) delivers an easy-to-use web applicatio
 Get started with [6-document-understanding](./6-document-understanding/README.md) module. </br>
 
 
+Lets get started!
+
+### Account Access
+In the first step, we will access your temporary AWS account where you will run your labs.
+
+Complete the steps within [0-init](./0-init/README.md) module.
 

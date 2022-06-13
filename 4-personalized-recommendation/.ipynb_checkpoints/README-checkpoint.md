@@ -1,10 +1,10 @@
-# Building your own recommender
+# Building your own personalized recommendation engine
 This tutorial walks you through building your own recommendation engine.
 
 ## Tutorial overview
 Completing this tutorial involes the following steps:
 
-- Run the `Building_item_Recommender.ipynb` notebook on AWS Sagemaker notebook. 
+- Follow the steps in the `Building_item_Recommender.ipynb` on AWS Sagemaker notebook. 
 
 ## Resources
 

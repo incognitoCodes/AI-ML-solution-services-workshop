@@ -1,12 +1,10 @@
 # Building your own recommender
-This tutorial walks you through building your own recommender.
-You will see how you can create resources in Amazon Personalize that generate recommendations, just like the Magic Movie Machine!
+This tutorial walks you through building your own recommendation engine.
 
 ## Tutorial overview
 Completing this tutorial involes the following steps:
 
-1. Click on Personalize in the AWS console followed by "Getting started". Next, click on "Experience the magic" and follow along
-2. Run the `Building_item_Recommender.ipynb` notebook on AWS Sagemaker notebook. 
+- Run the `Building_item_Recommender.ipynb` notebook on AWS Sagemaker notebook. 
 
 ## Resources
 

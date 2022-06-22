@@ -19,7 +19,7 @@ You can also use [Amazon Rekognition Custom Labels](https://aws.amazon.com/rekog
 
 ## Steps
 - Navigate to [Virtual Proctor](https://github.com/aws-samples/amazon-rekognition-virtual-proctor) solution.
-- Under *Deployment* > Click on *Launch on AWS* button next to *Asia Pacific (Singapore) (ap-southeast-1)* </br> ![Launch on AWS-Sydney](./images/launch-on-aws-sydney.png)
+- Under *Deployment* > Click on *Launch on AWS* button next to *US East (N. Virgina) (us-east-1)* </br> ![launch_on_us_east_1](./images/launch_on_us_east_1.png)
 - Under parameters, 
   - for *AdminEmail* enter your email address.
   - For *ObjectsOfInterestLabels* add *Book* and any other labels of interest.

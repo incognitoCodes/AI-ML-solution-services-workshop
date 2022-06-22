@@ -8,7 +8,7 @@ How to use the SageMaker no-code AI tool: CANVAS to build a prediction model and
 
 
 ## Steps
-- Navigate to the churn-prediction.ipynb notebook and follow the steps
+- Navigate to the churn-prediction.ipynb notebook under "3-churn-prediction" and follow the steps
 
 
 ## Next Steps

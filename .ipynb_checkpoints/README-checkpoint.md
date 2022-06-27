@@ -6,7 +6,7 @@ Welcome to the AWS AI Services Workshop!
 
 ### Prerequisites
 - Basic knowledge of AWS services
-- Attended the AI Services for EdTech webinar
+- Attended the AI for Education webinar
 - Chrome or FireFox browser
 
 

@@ -59,7 +59,7 @@ https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?
 
 - In the final page, check the two boxes at the end for acknowledgement and click **create stack**
 
-You can view the status of the stack in the AWS CloudFormation console in the Status column. You should receive a CREATE_COMPLETE status in approximately 10 minutes.
+You can view the status of the stack in the AWS CloudFormation console in the Status column. You should receive a CREATE_COMPLETE status in approximately 7 minutes.
 
 
 **Step 2. Sign in to the web interface**
@@ -78,9 +78,10 @@ After the AWS CloudFormation stack is created, you can sign in to the web interf
 
 Please note that you might be prompted for webcam access for liveness detection. If you want to do live testing, you will need to allow access to your webcam. 
 
-![homepage](./images/Liveness_detection_homepage.png)
+**There are two challenges. Try it out and have fun!!**
 
-**There are two challenges**
+
+![homepage](./images/Liveness_detection_homepage.png)
 
 ![NoseChallenge](./images/Nose_challenge.png)
 

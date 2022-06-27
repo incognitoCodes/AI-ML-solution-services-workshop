@@ -59,7 +59,7 @@ https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?
 
 - In the final page, check the two boxes at the end for acknowledgement and click **create stack**
 
-You can view the status of the stack in the AWS CloudFormation console in the Status column. You should receive a CREATE_COMPLETE status in approximately 10 minutes.
+You can view the status of the stack in the AWS CloudFormation console in the Status column. You should receive a CREATE_COMPLETE status in approximately 7 minutes.
 
 
 **Step 2. Sign in to the web interface**

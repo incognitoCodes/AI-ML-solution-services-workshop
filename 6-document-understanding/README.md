@@ -11,13 +11,7 @@ Using AWS artificial intelligence (AI) services, how to address business problem
 - Workflow automation: Easily plugs into your existing upstream and downstream applications 
 
 ## Steps
-- Navigate to [Document Understanding Solution](https://d2vz0uusf1tm0f.cloudfront.net/) website.
-- You can use *demouser* for shared access.
-- Run the following test cases
-  - Search for contextual question and compre results between OpenSearch and Kendra.
-  - Upload a handwritten document and search for content
-- sample documents
-  - [Queens letter](https://www.bbc.com/news/uk-england-wiltshire-36122985)
+- You can find the automated deployment instructions [here](https://docs.aws.amazon.com/solutions/latest/document-understanding-solution/automated-deployment.html).
 
 ## Solution overview
 

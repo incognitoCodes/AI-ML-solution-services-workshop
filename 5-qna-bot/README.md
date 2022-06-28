@@ -22,6 +22,8 @@ This demo is designed to cover the initial set up of the AWS QnABot and explore 
 - [Amazon Kendra](https://aws.amazon.com/kendra/)
 - [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 
+![Solution Architecture](./architecture.png "Solution Architecture")
+
 **The most common use-cases for QnA Chatbot include:**
 - Chatbot for the website, or mobile apps.
 - Integration with call centre to improve and automate operations.

@@ -94,6 +94,25 @@ Please note that you might be prompted for webcam access for liveness detection.
 ![liveness-verified](./images/Liveness_verified.png)
 
 
+**The nose challenge verification logic** is represented by a state machine that processes the frames uploaded for a certain challenge attempt. 
+
+- Face state: Checks if there is one, and only one, face detected in the frame image. If that is the case, the verification advances to the next state. Otherwise, the challenge fails.
+
+- Area state: Checks if the user's face is positioned inside the central area. If the face is fitted in the area before the specified timeout, the verification advances to the next state. Otherwise, the challenge fails.
+
+- Nose state: Checks if the user's nose is at the target position. If the nose reaches the target position before the specified timeout, the challenge succeeds. Otherwise, the challenge fails.
+
+
+**The pose challenge logic** verifies the following using the photo sent by the client device:
+
+- There’s one, and only one, face in the photo.
+
+- The confidence of the face detection is high (above a configurable threshold value).
+
+- The face is not rotated.
+
+- The eyes are positioned as required by the challenge (the user is looking in the correct direction, or the eyes are closed).The mouth is positioned as required by the challenge (closed or smiling).
+
 
 ## Next Steps
 The source code is available for your review and customizations. You can use the solution to build your own liveness detection solution.

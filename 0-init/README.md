@@ -7,7 +7,7 @@ In this section, we will access your temporary AWS account where you will run yo
 - **Open an incognito window in your browser** so that the event engine account does not conflict with your personal/business AWS account
 - Click on this link [Dashboard-Event-Engine](https://dashboard.eventengine.run/login)
 - Paste the event hash code that you received over email in the field.
-- Click "Accenpt terms and login"
+- Click "Accept terms and login"
 
 ![EE-dashboard](./images/EE-dashboard.png)
 
